@@ -1,0 +1,23 @@
+{
+  "name": "@areeba16/oop_mybank",
+  "version": "1.0.1",
+  "description": "A secure, scalable banking system leveraging OOP principles for efficient transaction management.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
